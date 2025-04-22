@@ -1,56 +1,85 @@
-# Mvelo Mkhize
+# **Mvelo Mkhize** ✨  
 
-**Location:** Durban, South Africa  
-**Email:** [mkhizemvelo07@gmail.com](mailto:mkhizemvelo07@gmail.com)  
-**LinkedIn:** [linkedin.com/in/mvelo-mkhize](https://linkedin.com/in/mvelo-mkhize)  
-**GitHub:** [github.com/mvelo-dev](https://github.com/mvelo-dev)  
+🚀 **Software Developer | Full-Stack & Mobile Enthusiast**  
+📍 **Durban, South Africa**  
 
----
-
-## 👋 About Me
-
-I am a dedicated software developer with a strong focus on mobile app and full-stack development. I hold a Diploma in Information Technology (Software Development) from Mangosuthu University of Technology. My skill set includes Java, C#, SQL, PHP, HTML, CSS, and JavaScript. I am passionate about building user-friendly applications and continuously enhancing my development skills. 
-
-My experience includes working with web technologies like WordPress, participating in Agile development teams, and tackling real-world web development projects through internships and training programs. I am eager to apply my skills and contribute to innovative projects.
+📧 **Email:** [mkhizemvelo07@gmail.com](mailto:mkhizemvelo07@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/mvelo-mkhize](https://linkedin.com/in/mvelo-mkhize)  
+💻 **GitHub:** [github.com/mvelo-dev](https://github.com/mvelo-dev)  
 
 ---
 
-## 🔧 Technical Skills
+## **👋 About Me**  
 
-- **Programming Languages:** Java, C#, PHP, JavaScript, HTML, CSS, SQL, Node.js, TypeScript
-- **Frameworks and Tools:** WordPress, Oracle SQL Developer, MS Project Management, GitHub, Web Hosting, .Net C#, Angular
-- **Project Management:** Agile, SDLC, Team Collaboration
+Passionate and detail-oriented **Software Developer** with expertise in **mobile app and full-stack development**. Holding a **Diploma in IT (Software Development)** from Mangosuthu University of Technology, I thrive on building **scalable, user-friendly applications** and continuously expanding my technical knowledge.  
 
----
-
-## 💼 Professional Experience
-
-### SD Creatives | Web Development Intern
-**Duration:** January 2024 – Present  
-- Developed and maintained web applications with PHP, HTML, CSS, TypeScript, and WordPress.
-- Collaborated with cross-functional teams to design and implement new features.
-- Enhanced application performance through debugging and troubleshooting.
-
-### Berea Computers | Inservice Training (Web Development & Project Management)
-**Duration:** July 2023 – December 2023  
-- Gained hands-on experience in web hosting and WordPress development.
-- Delivered website development projects as part of a collaborative team.
-
-### Mangosuthu University of Technology | Volunteer Tutor
-**Duration:** March 2022 – December 2022  
-- Tutored first-year students in computer basics and coding, enhancing my leadership and communication skills.
+🔹 **Strong foundation** in **Java, C#, JavaScript, PHP, SQL, and modern web technologies**.  
+🔹 **Experienced** in **Agile development, WordPress, and project management**.  
+🔹 **Eager to collaborate** on innovative projects and solve real-world problems with code.  
 
 ---
 
-## 🎓 Education
+## **🛠️ Technical Skills**  
 
-- **Diploma in Information Technology (Software Development)**  
-  Mangosuthu University of Technology, 2021 – 2023
+### **Programming Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+
+### **Web Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+
+### **Databases & Tools**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+### **Methodologies**  
+✔ **Agile & Scrum**  
+✔ **SDLC**  
+✔ **Team Collaboration**  
 
 ---
 
-## 📈 Projects
+## **💼 Professional Experience**  
 
-I am constantly working on new projects and updating my portfolio. Check out my repositories to see some of my recent work in mobile app development, full-stack projects, and more.
+### **SD Creatives** | Web Development Intern  
+📅 **Jan 2024 – Present**  
+✅ Developed and maintained **web applications** using **PHP, HTML, CSS, TypeScript, and WordPress**.  
+✅ Collaborated with **cross-functional teams** to design and implement new features.  
+✅ Optimized performance through **debugging and troubleshooting**.  
+
+### **Berea Computers** | In-Service Training (Web Dev & Project Management)  
+📅 **Jul 2023 – Dec 2023**  
+✅ Hands-on experience in **web hosting & WordPress development**.  
+✅ Delivered **website projects** in a team environment.  
+
+### **Mangosuthu University of Technology** | Volunteer Tutor  
+📅 **Mar 2022 – Dec 2022**  
+✅ Mentored **first-year students** in **computer basics & programming**.  
+✅ Improved **leadership & communication skills**.  
 
 ---
+
+## **🎓 Education**  
+
+**Diploma in Information Technology (Software Development)**  
+🏫 **Mangosuthu University of Technology** | **2021 – 2023**  
+
+---
+
+## **🚀 Projects & Contributions**  
+
+🔹 **Check out my [GitHub Repositories](https://github.com/mvelo-dev) for full-stack, mobile, and web projects!**  
+🔹 **Always building & learning—stay tuned for more!**  
+
+---
+
+### **Let’s Connect!** 🤝  
+📩 **Email:** [mkhizemvelo07@gmail.com](mailto:mkhizemvelo07@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/mvelo-mkhize](https://linkedin.com/in/mvelo-mkhize)  
+
+---
+
+### **Visitor Count** 👀  
+![Visitor Count](https://komarev.com/ghpvc/?username=mvelo-dev&color=blue&style=flat)  
+
+---
+
+✨ **Thanks for visiting!** ✨  
